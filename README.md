@@ -1,2 +1,1 @@
-# testiprojekti
-testiprojekti
+Testataan tässä projektissa, miten oppi HTML:stä on jäänyt mieleen.
